@@ -1,4 +1,5 @@
 # limiter
+[![npm version](https://badge.fury.io/js/%40nest-mods%2Flimiter.svg)](https://badge.fury.io/js/%40nest-mods%2Flimiter)
 
 Easy to use Limiter for nest.js (express)
 
